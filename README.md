@@ -1,2 +1,6 @@
-# SCT_DA_2
-Performed data cleaning on a large sales dataset using Pandas, including handling null values, removing duplicate entries, standardizing date formats, and exporting the cleaned data to an Excel file.
+Task :- Data Cleaning and Preparation
+
+- Dataset cleaned using Python (Pandas)
+- Removed missing values and duplicates
+- Converted date columns
+- Exported cleaned dataset
